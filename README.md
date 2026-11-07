@@ -101,10 +101,10 @@
 
 **PERSONAL PORTFOLIO**
 
-A personal portfolio featuring 17 vanilla JavaScript projects, each with its own case-study page.
+A personal portfolio featuring projects, each with its own case-study page.
 
 <p align="right">
-  <a href="https://github.com/Ariz5374/ArizKarim.dev">EXPLORE PROJECT ↗</a>
+  <a href="https://github.com/Ariz5374/Portfolio">EXPLORE PROJECT ↗</a>
 </p>
 
 ---
