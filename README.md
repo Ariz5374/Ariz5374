@@ -166,6 +166,8 @@ A landing page concept for an invoicing product.
 
 <!-- ═══════════════ 05 / ACTIVITY ═══════════════ -->
 
+<!-- 05 / THE ACTIVITY -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:080808,100:242424&text=05%20%2F%20THE%20ACTIVITY&fontSize=19&fontColor=F5F5F5&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%" alt="05 — The Activity"/>
 </p>
@@ -173,20 +175,32 @@ A landing page concept for an invoicing product.
 <h2 align="center">Consistency over noise.</h2>
 
 <p align="center">
-  <sub>A record of experiments, contributions and progress.</sub>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ariz5374&bg_color=080808&color=B5B5B5&line=FFFFFF&point=FFFFFF&area=true&area_color=444444&hide_border=true" alt="GitHub activity graph"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ariz5374&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&icon_color=AAAAAA&text_color=B5B5B5&ring_color=888888" alt="GitHub statistics"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariz5374&layout=compact&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=B5B5B5" alt="Most used languages"/>
+  <sub>THE WORK IS NEVER REALLY FINISHED.</sub>
 </p>
 
 <br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=1800&color=AAAAAA&center=true&vCenter=true&width=450&lines=COMMIT.;LEARN.;REFACTOR.;REPEAT." alt="Commit. Learn. Refactor. Repeat."/>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Ariz5374?tab=repositories">
+    EXPLORE REPOSITORIES ↗
+  </a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/Ariz5374?tab=overview&from=2026-01-01&to=2026-12-31">
+    VIEW CONTRIBUTIONS ↗
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>EVERY COMMIT IS A SMALLER STEP TOWARDS SOMETHING BETTER.</sub>
+</p>
 <!-- ═══════════════ 06 / CONTACT ═══════════════ -->
 
 <p align="center">
