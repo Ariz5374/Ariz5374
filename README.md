@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ariz5374.github.io/Portfolio/">PORTFOLIO ↗</a>
+  <a href="https://portfolio-ariz-karimdev.vercel.app/">PORTFOLIO ↗</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://github.com/Ariz5374">GITHUB ↗</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
